@@ -6,15 +6,15 @@ body {
 .parent {
     width: 90%;
     height: 600px;
-    background-color: rgba(220, 220, 220, 1);
     margin: auto;
+    background-color: #f1f6f7;
     margin-top: 20px;
 }
 
 .firstPart {
     height: 100%;
     width: 35%;
-    background-color: rgba(0, 0, 205, 0.8);
+    background-color: #384aeb;
     float: left;
 }
 
@@ -48,7 +48,7 @@ body {
     width: 180px;
     border-radius: 30px;
     padding: 18px;
-    background-color: rgba(0, 0, 205, 0.8);
+    background-color: #384aeb;
     color: white;
 }
 
